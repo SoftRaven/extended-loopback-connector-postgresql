@@ -1,7 +1,7 @@
 {
-  "name": "loopback-connector-postgresql",
+  "name": "extended-loopback-connector-postgresql",
   "version": "5.5.1",
-  "description": "Loopback PostgreSQL Connector",
+  "description": "Loopback PostgreSQL Connector with extended 'contains' operator",
   "engines": {
     "node": ">=10"
   },
@@ -53,5 +53,5 @@
     "url": "https://github.com/loopbackio/loopback-connector-postgresql.git"
   },
   "license": "Artistic-2.0",
-  "author": "IBM Corp."
+  "author": "Arseniy Miakenkii"
 }
