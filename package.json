@@ -1,6 +1,6 @@
 {
   "name": "extended-loopback-connector-postgresql",
-  "version": "5.5.1",
+  "version": "5.5.2",
   "description": "Loopback PostgreSQL Connector with extended 'contains' operator",
   "engines": {
     "node": ">=10"
