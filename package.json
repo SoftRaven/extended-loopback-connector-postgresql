@@ -1,6 +1,6 @@
 {
   "name": "extended-loopback-connector-postgresql",
-  "version": "5.5.2",
+  "version": "5.5.3",
   "description": "Loopback PostgreSQL Connector with extended 'contains' operator",
   "engines": {
     "node": ">=10"
@@ -31,11 +31,12 @@
     "chalk": "^4.0.0",
     "debug": "^4.1.1",
     "loopback-connector": "^5.0.0",
-    "pg": "^8.0.2",
+    "pg": "^8.11.0",
     "strong-globalize": "^6.0.0",
     "uuid": "^8.3.0"
   },
   "devDependencies": {
+    "@commitlint/config-conventional": "^12.1.4",
     "eslint": "^7.7.0",
     "eslint-config-loopback": "^13.1.0",
     "juggler-v3": "file:./deps/juggler-v3",
@@ -45,8 +46,7 @@
     "mocha": "^8.1.2",
     "rc": "^1.0.0",
     "should": "^13.2.3",
-    "sinon": "^9.0.2",
-    "@commitlint/config-conventional": "^12.1.4"
+    "sinon": "^9.0.2"
   },
   "repository": {
     "type": "git",
